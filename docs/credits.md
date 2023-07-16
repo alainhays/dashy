@@ -109,13 +109,6 @@
             <br />
             <sub><b>Ryan Turner</b></sub>
         </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/royshreyaaa">
-            <img src="https://avatars.githubusercontent.com/u/88572557?v=4" width="80;" alt="royshreyaaa"/>
-            <br />
-            <sub><b>Shreya Roy</b></sub>
-        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
